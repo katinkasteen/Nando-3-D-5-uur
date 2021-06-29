@@ -1,0 +1,9 @@
+grootste = int(input("Voer het grootste getal in."))
+a = int(input("Voer het kleinste getal in.'))
+b = int(input("Voer het derde getal in."))
+linkerlid = grootste*grootste
+rechterlid : a*a + b*b
+if linkerlid == rechterlid
+print ("De getallen vormen een pythagorees drietal.")
+else:
+print("De getallen vormen geen pythagorees drietal.")
